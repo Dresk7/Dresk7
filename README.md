@@ -1,16 +1,29 @@
-## Hi there 👋
+Daniel De Sousa Araujo
+Back-End Developer in training | ETEC Vasco Antonio Venchiarutti — Jundiaí, SP
 
-<!--
-**Dresk7/Dresk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught tech professional from Brazil, driven by discipline, logical thinking, and academic rigor. Focused on multidisciplinary know.
 
-Here are some ideas to get you started:
+Objective
+Looking for an internship opportunity in software development, where I can apply my backend skills and keep growing as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+Languages: (Learning)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+Featured Projects
+Project	Description	Stack
+[Portfolio-Etec]	(https://github.com/miguel/cvvj)	Make in group
+
+
+Enrolled in the 1st year of the Technical High School in Systems Development.
+English: A2-A3
+Expected graduation: December 2028
